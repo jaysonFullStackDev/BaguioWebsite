@@ -1,0 +1,27 @@
+{
+  "name": "baguiowebsite",
+  "version": "1.0.0",
+  "description": "Website for baguio city",
+  "keywords": [
+    "Tourist",
+    "spot",
+    "in",
+    "baguio",
+    "city"
+  ],
+  "homepage": "https://github.com/jaysonFullStackDev/BaguioWebsite#readme",
+  "bugs": {
+    "url": "https://github.com/jaysonFullStackDev/BaguioWebsite/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaysonFullStackDev/BaguioWebsite.git"
+  },
+  "license": "ISC",
+  "author": "Jayson Quisquirin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
