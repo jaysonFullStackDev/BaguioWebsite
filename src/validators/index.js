@@ -17,7 +17,6 @@ const userRegisterValidator = () => {
       .isLength({ min: 3 })
       .withMessage("Username must be at least 3 characters long"),
     body("password").trim().notEmpty().withMessage("Password is required"),
-
     body("fullaName").optional().trim(),
   ];
 };
